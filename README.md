@@ -1,2 +1,2 @@
 # algorithms-study
-Several algorithms studies with classes and data structures.
+Aprendizado de esturtura de dados em Java.
